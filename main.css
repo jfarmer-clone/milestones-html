@@ -1,8 +1,10 @@
 /* Select the body tag */
 body {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.5;
+
+  background-color: rgb(191, 255, 191);
 }
 
 /* Select all h1, h2, ..., h6 tags */
